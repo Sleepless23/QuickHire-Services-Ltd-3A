@@ -30,6 +30,7 @@ Attendance files are often misplaced or overwritten.
 To develop a secure, accurate, and automated Attendance & Payroll Management System that simplifies HR processes, reduces salary errors, and improves trust with employees and clients.
 
 🖥️ **System Requirements**
+
 ✔ **1. Employee Management**
 
 Register new employees
